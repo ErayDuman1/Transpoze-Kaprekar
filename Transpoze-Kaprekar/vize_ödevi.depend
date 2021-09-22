@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1590179976 source:c:\users\eray duman\desktop\yazilim\vize_ödevi\main.c
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
